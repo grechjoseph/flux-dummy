@@ -14,6 +14,7 @@ import java.util.stream.Stream;
 
 @Slf4j
 @RestController
+@CrossOrigin("*")
 public class FluxController {
 
     /*
